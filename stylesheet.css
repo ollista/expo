@@ -1,6 +1,6 @@
 body {margin:0;font-family:Verdana,Arial,sans-serif;font-size:20px;}
 img {border:0;}
-p {text-indent:25px;}
+p {margin:0;text-indent:2em;}
 a {font-size:18px;color:#663300;font-weight:bold;text-decoration:none;border-bottom:3px double #C09739;}
 a:hover {border-bottom:3px groove #C09739;}
 
