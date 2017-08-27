@@ -5,7 +5,8 @@ a {font-size:18px;color:#663300;font-weight:bold;text-decoration:none;border-bot
 a:hover {border-bottom:3px groove #C09739;}
 
 audio:hover, audio:focus, audio:active, .menu:hover, .menu:focus, .menu:active {-webkit-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);-moz-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);-webkit-transform: scale(1.05);-moz-transform: scale(1.05);transform: scale(1.05);}
-audio, .menu {font-size:30px;color:#663300;width:150px;-webkit-transition:all 0.5s linear;-moz-transition:all 0.5s linear;-o-transition:all 0.5s linear;transition:all 0.5s linear;-moz-box-shadow: 2px 2px 4px 0px #736773;-webkit-box-shadow:  2px 2px 4px 0px #736773;box-shadow: 2px 2px 4px 0px #736773;-moz-border-radius:7px 7px 7px 7px ;-webkit-border-radius:7px 7px 7px 7px ;border-radius:7px 7px 7px 7px ;}
+audio, .menu {font-size:30px;color:#663300;-webkit-transition:all 0.5s linear;-moz-transition:all 0.5s linear;-o-transition:all 0.5s linear;transition:all 0.5s linear;-moz-box-shadow: 2px 2px 4px 0px #736773;-webkit-box-shadow:  2px 2px 4px 0px #736773;box-shadow: 2px 2px 4px 0px #736773;-moz-border-radius:7px 7px 7px 7px ;-webkit-border-radius:7px 7px 7px 7px ;border-radius:7px 7px 7px 7px ;}
+audio {width:200px;vertical-align:-7px;}
 
 .bod {position:relative;margin:0px auto;width:1000px;text-align:center;background-color:#e8e1d0;}
 #quote {position:absolute;left:20px;top:30px;width:320px;text-align:justify;font-size:20px;}
