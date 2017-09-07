@@ -11,6 +11,6 @@ function chanpg(x){document.getElementById('quote').innerHTML=input[x][0];
 document.getElementById('callig').innerHTML=input[x][1];}
 function vidplay(px){var video=document.getElementById("pl"+px);
 var button=document.getElementById("bt"+px);
-if (video.paused) {video.play();button.innerHTML="&#10074; &#10074;";}
+if (video.paused) {video.play();button.innerHTML="&#10073; &#10073;";}
 else {video.pause();button.innerHTML="&#9658;";}
 video.addEventListener("ended",function (){button.innerHTML="&#9658;";})}
