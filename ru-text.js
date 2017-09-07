@@ -13,4 +13,4 @@ function vidplay(px) {var video = document.getElementById("pl"+px);
 var button = document.getElementById("bt"+px);
 if (video.paused) {video.play();button.innerHTML="||";}
 else {video.pause();button.innerHTML="&#9658;";}
-video.addEventListener('ended',function () {button.innerHTML="&#9658;";}}
+video.addEventListener("ended",function () {button.innerHTML="&#9658;";}}
