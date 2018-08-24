@@ -9,7 +9,7 @@ a:hover {border-bottom:3px groove #C09739;}
 
 .bod {position:relative;margin:0px auto;width:1000px;text-align:center;background-color:#e8e1d0;}
 #quote {position:absolute;left:20px;top:30px;width:320px;text-align:justify;font-size:20px;}
-#zello {position:absolute;right:5px;top:5px;width:305px;height:95px;opacity:0.6;}
+#zello {position:absolute;right:3px;top:5px;width:305px;height:95px;opacity:0.6;}
 .language {position:absolute;left:830px;top:305px;font-size:20px;}
 .language a {text-decoration:none;font-size:20px;}
 
