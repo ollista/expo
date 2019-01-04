@@ -1,4 +1,4 @@
-body {margin:0;font-family:Verdana,Arial,sans-serif;font-size:20px;}
+body {margin:0;font-family:Arial,Helvetica,sans-serif;font-size:20px;}
 img {border:0;}
 p {margin:0;text-indent:2em;}
 a {font-size:18px;color:#663300;font-weight:bold;text-decoration:none;border-bottom:3px double #C09739;}
@@ -8,7 +8,7 @@ a:hover {border-bottom:3px groove #C09739;}
 .menu {font-size:30px;text-align:center;font-weight:bold;min-width:50px;height:40px;display:inline-block; color:#663300;-webkit-transition:all 0.5s linear;-moz-transition:all 0.5s linear;-o-transition:all 0.5s linear;transition:all 0.5s linear;-moz-box-shadow: 2px 2px 4px 0px #736773;-webkit-box-shadow:  2px 2px 4px 0px #736773;box-shadow: 2px 2px 4px 0px #736773;-moz-border-radius:7px 7px 7px 7px ;-webkit-border-radius:7px 7px 7px 7px ;border-radius:7px 7px 7px 7px ;}
 
 .bod {position:relative;margin:0px auto;width:1000px;text-align:center;background-color:#e8e1d0;}
-#quote {position:absolute;left:20px;top:30px;width:320px;text-align:justify;font-size:20px;}
+#quote {position:absolute;left:20px;top:30px;width:320px;text-align:justify;font-size:20px;line-height:1.1;}
 #zello {position:absolute;right:3px;top:5px;width:305px;height:95px;opacity:0.6;}
 .language {position:absolute;left:830px;top:305px;font-size:20px;}
 .language a {text-decoration:none;font-size:20px;}
